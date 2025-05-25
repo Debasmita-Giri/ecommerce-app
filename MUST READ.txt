@@ -1,0 +1,6 @@
+for backend- run directly main class (EcommerceApplication - located inside src->main->java>com.backend>EcommerceApplication)
+
+For frontend- 
+1. npm install
+2. npm start
+
